@@ -287,5 +287,5 @@ Les suggestions sont les bienvenues ! Décrivez votre cas d'usage et la fonction
 ---
 
 **Version** : 1.0.0  
-**Dernière mise à jour** : Décembre 2024  
+**Dernière mise à jour** : Dimanche 28 Décembre 2025  
 **Compatibilité** : Windows 10/11 (x86/x64)
